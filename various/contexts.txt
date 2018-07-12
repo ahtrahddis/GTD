@@ -1,0 +1,22 @@
+contexts (and lists)
+--
+
+anywhere
+appointments
+calls
+do
+emails
+errands
+goals
+home
+housework
+meetings
+out
+pc
+reading
+smartphone
+someday/maybe
+ticklers
+waitingfor
+websearching
+writing
