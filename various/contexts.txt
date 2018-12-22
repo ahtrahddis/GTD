@@ -4,12 +4,15 @@ contexts (and lists)
 anywhere
 appointments
 calls
-do
 emails
 errands
+excercising
 goals
 home
 housework
+im
+inbox
+laptop
 meetings
 out
 pc
@@ -18,5 +21,6 @@ smartphone
 someday/maybe
 ticklers
 waitingfor
+watching
 websearching
 writing
