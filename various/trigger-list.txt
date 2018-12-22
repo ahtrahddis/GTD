@@ -1,0 +1,94 @@
+trigger-list
+--
+
+1. Projects 
+	1.1 started/not completed
+	1.2 need to be started
+
+2. Things I’m waiting on from people
+
+3. Relationships
+	3.1 Commitments to others
+		- Family
+		- Friends
+	3.2 Things to respond to
+		- Viber/WhatsApp threads
+		- E-mails
+	3.3 Gift giving occasions
+	3.4 Social events
+
+4. Health
+	4.1 Nutrition
+		- Supplements
+	4.2 Fitness
+		- Running
+		- Home Gym
+		- Gear
+	4.3 Doctor appointments
+
+5. Finance
+	5.1 People to pay back
+	5.2 Budgeting
+	5.3 Banks
+	5.4 Taxes
+	5.5 Bills	
+	5.6 Insurance
+
+6. Career/Job
+	6.1 Networking 
+	6.2 Skills to learn 
+	6.3 Conferences/Calls/Emails 
+	6.4 CV 
+
+7. Clothing
+	7.1 Items to buy
+	7.2 Items to repair
+	7.3 Items that need replacing
+	7.4 Laundry
+
+8. Household
+	8.1 Supermarket
+	8.2 Cooking
+	8.3 Cleaning/tidying
+ 
+9. Home improvement
+	9.1 Decluttering
+	9.2 Minimalism
+	9.2 Repairs 
+
+10. Travel
+	10.1 Trips to plan 
+	10.2 Transport to book 
+	10.3 Accommodation to book 
+
+11. Leisure
+	11.1 Books
+	11.2 Music 
+	11.3 Films/Series/TV-Shows/Documentaries
+	11.4 Photography Stuff
+	11.5 Podcasts
+	11.6 Gigs
+	11.7 Cinema/Theatre
+	11.8 Restaurants
+	11.9 Galleries/Museums
+	11.10 Walks
+
+12. Personal grooming
+	12.1 Haircuts
+	12.2 Products to buy
+
+13. Productivity system
+	13.1 Changes to trigger list
+	13.2 Changes to Projects/Contexts
+
+14. Self improvement
+	14.1 Weaknesses
+	14.2 Fears
+	14.3 Gaps in my knowledge 
+	14.4 Inspiration
+
+
+note:
+--
+This is a (heavily) modified version of a list I found online and unfortunately 
+I did not keep the original URL to mention it as my source.
