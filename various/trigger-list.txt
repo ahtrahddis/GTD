@@ -102,5 +102,4 @@ trigger-list
 
 note:
 --
-This is a (heavily) modified version of a list I found online and unfortunately 
-I did not keep the original URL to mention it as my source.
+This is a (heavily) modified version of a list I found online and unfortunately I did not keep the original URL to mention it as my source.
