@@ -4,8 +4,10 @@ contexts (and lists)
 anywhere
 appointments
 calls
+car
 emails
 errands
+events
 excercising
 goals
 home
@@ -24,3 +26,6 @@ waitingfor
 watching
 websearching
 writing
+
+
+Note: goals, inbox, someday/maybe and ticklers are not contexts but with todo.txt there is no difference in handling them.

@@ -7,85 +7,97 @@ trigger-list
 
 2. Things I’m waiting on from people
 
-3. Relationships
-	3.1 Commitments to others
+3. Communucations to make
+	3.1 Calls
+	3.2 E-mails
+	3.2. Viber/Whatsapp
+
+4. Relationships
+	4.1 Commitments to others
 		- Family
 		- Friends
-	3.2 Things to respond to
-		- Viber/WhatsApp threads
-		- E-mails
-	3.3 Gift giving occasions
-	3.4 Social events
+	4.2 Communucation with friends and family
+	4.3 Gift giving occasions
+	4.4 Social events
 
-4. Health
-	4.1 Nutrition
+5. Health
+	5.1 Nutrition
 		- Supplements
-	4.2 Fitness
+		- Fasting 
+	5.2 Fitness
 		- Running
 		- Home Gym
 		- Gear
-	4.3 Doctor appointments
+	5.3 Doctor appointments for me and the family
 
-5. Finance
-	5.1 People to pay back
-	5.2 Budgeting
-	5.3 Banks
-	5.4 Taxes
-	5.5 Bills	
-	5.6 Insurance
+6. Finance
+	6.1 People to pay back
+	6.2 Budgeting
+	6.3 Banks
+	6.4 Taxes
+	6.5 Bills	
+	6.6 Update personal spreadsheet
+	6.7 Insurrance
 
-6. Career/Job
-	6.1 Networking 
-	6.2 Skills to learn 
-	6.3 Conferences/Calls/Emails 
-	6.4 CV 
+7. Career/Job
+	7.1 Meetings/Conferences/Calls/Emails 
+	7.2 Networking 
+	7.3 Skills to learn
+	7.4 CV
 
-7. Clothing
-	7.1 Items to buy
-	7.2 Items to repair
-	7.3 Items that need replacing
-	7.4 Laundry
+8. Clothing
+	8.1 Items to buy
+	8.2 Items to repair
+	8.3 Items that need replacing
+	8.4 Laundry
 
-8. Household
-	8.1 Supermarket
-	8.2 Cooking
-	8.3 Cleaning/tidying
+9. Household
+	9.1 Supermarket
+	9.2 Cooking
+	9.3 Cleaning/tidying
  
-9. Home improvement
-	9.1 Decluttering
-	9.2 Minimalism
-	9.2 Repairs 
+10. Home improvement
+	10.1 Decluttering
+	10.2 Minimalism
+	10.2 Repairs 
 
-10. Travel
-	10.1 Trips to plan 
-	10.2 Transport to book 
-	10.3 Accommodation to book 
+11. Cars
+	11.1 Maintenance 
+	11.2 Washing 
+	11.3 Refueling
+	11.4 Insurrance 
 
-11. Leisure
-	11.1 Books
-	11.2 Music 
-	11.3 Films/Series/TV-Shows/Documentaries
-	11.4 Photography Stuff
-	11.5 Podcasts
-	11.6 Gigs
-	11.7 Cinema/Theatre
-	11.8 Restaurants
-	11.9 Galleries/Museums
-	11.10 Walks
+12. Travel/Holidays
+	12.1 Trips to plan 
+	12.2 Transport to book 
+	12.3 Accommodation to book 
 
-12. Personal grooming
-	12.1 Haircuts
-	12.2 Products to buy
+13. Leisure
+	13.1 Books
+	13.2 Music 
+	13.3 Films/Series/TV-Shows/Documentaries
+	13.4 Photography Stuff
+	13.5 New additions on my websites
+	13.6 Podcasts
+	13.7 Gigs
+	13.8 Cinema/Theatre
+	13.9 Restaurants
+	13.10 Galleries/Museums
+	13.11 Walks
 
-13. Productivity system
-	13.1 Changes to trigger list
-	13.2 Changes to Projects/Contexts
+14. Personal grooming
+	14.1 Haircuts
+	14.2 Products to buy
 
-14. Self improvement
-	14.1 Weaknesses
-	14.2 Fears
-	14.3 Gaps in my knowledge 
-	14.4 Inspiration
+15. Productivity system
+	15.1 Changes to trigger list
+	15.2 Changes to Projects/Contexts lists
+
+16. Self improvement
+	16.1 Weaknesses
+	16.2 Fears
+	16.3 Gaps in my knowledge 
+	16.4 Inspiration
 
 
 note:
