@@ -1,0 +1,20 @@
+H1
+--
+10000ft - Projects. Outcomes we want to achieve that require more than one action and which can be completed within a year.
+
+Question
+---
+What do I need to complete?
+
+
+Formats
+---
+- overview list of all projects under \Notes\GTD\
+- projects (todo.txt)
+- project stuff under \Notes\GTD\Projects
+
+
+Frequency
+---
+- weekly review
+- whenever next-action contents are not current

@@ -1,6 +1,7 @@
 contexts (and lists)
 --
 
+agendas
 anywhere
 appointments
 calls
