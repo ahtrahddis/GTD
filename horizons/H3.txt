@@ -1,6 +1,6 @@
 H3
 --
-30000ft - Goals and objectives. What do we want and need to acomplish, specifically, within the next 12-24 months, to make the vision hapen?
+30000ft - Goals and objectives. What do we want and need to accomplish, specifically, within the next 12-24 months, to make the vision happen?
 
 Question
 -
@@ -22,8 +22,8 @@ GENERAL
 
 Frequency
 -
-- annualy
-- quarterly reviews and recalibrations
+- annually
+- quarterly reviews and re-calibrations
 - whenever there is need to recalibrate one's goals
 
 
