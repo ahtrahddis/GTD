@@ -23,7 +23,7 @@ GENERAL
 Frequency
 -
 - annually
-- quarterly reviews and re-calibrations
+- quarterly reviews and recalibrations
 - whenever there is need to recalibrate one's goals
 
 
